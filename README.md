@@ -1,6 +1,7 @@
 # VM toggler
 
 A simple script for Windows that:
+
 1. Places a VM window in foreground
 2. Waits for a signal from the VM
 3. Finds the window that had focus before the VM
